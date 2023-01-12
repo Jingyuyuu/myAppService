@@ -1,0 +1,7 @@
+server:
+  port: 7856
+spring:
+  datasource:
+    url: jdbc:mariadb://192.168.255.123/newdb
+    username: appuser002
+    password: 12345
